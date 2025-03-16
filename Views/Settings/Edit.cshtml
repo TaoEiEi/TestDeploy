@@ -1,0 +1,47 @@
+@model BadmintonCourtManagement.Models.PriceSetting
+
+@{
+    ViewData["Title"] = "Edit Price Settings";
+}
+
+<div class="container">
+    <h2>Edit Price Settings</h2>
+    <hr />
+    
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Id" />
+                
+                <div class="mb-3">
+                    <label asp-for="ShuttlecockPrice" class="form-label"></label>
+                    <div class="input-group">
+                        <input asp-for="ShuttlecockPrice" class="form-control" type="number" min="0" step="0.01" />
+                        <span class="input-group-text">฿</span>
+                    </div>
+                    <span asp-validation-for="ShuttlecockPrice" class="text-danger"></span>
+                </div>
+                
+                <div class="mb-3">
+                    <label asp-for="CourtRentalFee" class="form-label"></label>
+                    <div class="input-group">
+                        <input asp-for="CourtRentalFee" class="form-control" type="number" min="0" step="0.01" />
+                        <span class="input-group-text">฿</span>
+                    </div>
+                    <span asp-validation-for="CourtRentalFee" class="text-danger"></span>
+                </div>
+                
+                <div class="mb-3">
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+                    <button type="submit" class="btn btn-primary">Save Settings</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "s5dM67Apy0Fw7OgLvt0l3Pf0Lz9xlY//MEr6U4iOYJE=",
+  "Source": "BadmintonCourtManagement",
+  "BasePath": "_content/BadmintonCourtManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BadmintonCourtManagement\\wwwroot",
+      "Source": "BadmintonCourtManagement",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\css\\site.css",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6dtnnvokq",
+      "Integrity": "Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\js\\site.js",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7nkanq878j",
+      "Integrity": "/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r6dtnnvokq.css",
+      "AssetFile": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6dtnnvokq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.7nkanq878j.js",
+      "AssetFile": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7nkanq878j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\user\\Downloads\\badminton-court-management\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    }
+  ]
+}
