@@ -1,0 +1,4 @@
+D:\All Project\TestDeploy\wwwroot\css\site.css
+D:\All Project\TestDeploy\wwwroot\js\site.js
+wwwroot\css\site.css
+wwwroot\js\site.js

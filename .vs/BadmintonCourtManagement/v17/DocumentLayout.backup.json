@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\badminton-court-management\\",
+  "WorkspaceRootPath": "D:\\All Project\\TestDeploy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\badmintoncourtmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:badmintoncourtmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\controllers\\courtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\courtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\models\\playercourt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:models\\playercourt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\controllers\\courtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:controllers\\courtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\models\\playercourt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:models\\playercourt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:models\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\views\\players\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\views\\players\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\players\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\views\\courts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\views\\courts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\courts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|c:\\users\\user\\downloads\\badminton-court-management\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|d:\\all project\\testdeploy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D783269-3BEC-4BE7-ACE4-54E46D857C2B}|BadmintonCourtManagement.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -87,75 +91,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BadmintonCourtManagement",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\BadmintonCourtManagement.csproj",
+              "RelativeDocumentMoniker": "BadmintonCourtManagement.csproj",
+              "ToolTip": "D:\\All Project\\TestDeploy\\BadmintonCourtManagement.csproj",
+              "RelativeToolTip": "BadmintonCourtManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T06:26:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T04:28:16.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayersController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\PlayersController.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Controllers\\PlayersController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlayersController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\PlayersController.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Controllers\\PlayersController.cs",
               "RelativeToolTip": "Controllers\\PlayersController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:17:53.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CourtsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\CourtsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CourtsController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Controllers\\CourtsController.cs",
-              "RelativeToolTip": "Controllers\\CourtsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:17:51.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerCourt.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\PlayerCourt.cs",
-              "RelativeDocumentMoniker": "Models\\PlayerCourt.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\PlayerCourt.cs",
-              "RelativeToolTip": "Models\\PlayerCourt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:17:42.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:17:53.75Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "Title": "CourtsController.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Controllers\\CourtsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourtsController.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Controllers\\CourtsController.cs",
+              "RelativeToolTip": "Controllers\\CourtsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T04:17:28.684Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:17:51.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "PlayerCourt.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Models\\PlayerCourt.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerCourt.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Models\\PlayerCourt.cs",
+              "RelativeToolTip": "Models\\PlayerCourt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:17:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\All Project\\TestDeploy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T04:17:28.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Program.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Program.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,125 +176,116 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABEBAAAAAAAAAAAAACcBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T03:49:34.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:17:16.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:16:38.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:49:34.807Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Court.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\Court.cs",
-              "RelativeDocumentMoniker": "Models\\Court.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Models\\Court.cs",
-              "RelativeToolTip": "Models\\Court.cs",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:16:35.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:17:16.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Players\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Players\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Players\\Create.cshtml",
-              "RelativeToolTip": "Views\\Players\\Create.cshtml",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T04:13:44.115Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:16:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Court.cs",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Models\\Court.cs",
+              "RelativeDocumentMoniker": "Models\\Court.cs",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Models\\Court.cs",
+              "RelativeToolTip": "Models\\Court.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:16:35.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Courts\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Courts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Courts\\Create.cshtml",
-              "RelativeToolTip": "Views\\Courts\\Create.cshtml",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Views\\Players\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Players\\Create.cshtml",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Views\\Players\\Create.cshtml",
+              "RelativeToolTip": "Views\\Players\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T04:13:41.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T03:59:51.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:13:44.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "globals.css",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\styles\\globals.css",
-              "RelativeDocumentMoniker": "styles\\globals.css",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\styles\\globals.css",
-              "RelativeToolTip": "styles\\globals.css",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T03:51:14.004Z",
-              "EditorCaption": ""
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Views\\Courts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courts\\Create.cshtml",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Views\\Courts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Courts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T04:13:41.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T03:59:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "globals.css",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\styles\\globals.css",
+              "RelativeDocumentMoniker": "styles\\globals.css",
+              "ToolTip": "D:\\All Project\\TestDeploy\\styles\\globals.css",
+              "RelativeToolTip": "styles\\globals.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T03:51:14.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\All Project\\TestDeploy\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Downloads\\badminton-court-management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\All Project\\TestDeploy\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T03:51:05.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-03-16T03:51:05.75Z"
             }
           ]
         },

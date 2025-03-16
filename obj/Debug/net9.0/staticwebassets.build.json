@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "81lx/7yvVqJJ+vJRuob4/JsebZKkhIL9VY1ykFKyfmw=",
+  "Source": "BadmintonCourtManagement",
+  "BasePath": "_content/BadmintonCourtManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BadmintonCourtManagement\\wwwroot",
+      "Source": "BadmintonCourtManagement",
+      "ContentRoot": "D:\\All Project\\TestDeploy\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\9g15z2o4xb-r6dtnnvokq.gz",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "css/site#[.{fingerprint=r6dtnnvokq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\All Project\\TestDeploy\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uay3s2zg45",
+      "Integrity": "ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\All Project\\TestDeploy\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\tidpnky6zr-7nkanq878j.gz",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "js/site#[.{fingerprint=7nkanq878j}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\All Project\\TestDeploy\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "85tyitac6o",
+      "Integrity": "9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\All Project\\TestDeploy\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\All Project\\TestDeploy\\wwwroot\\css\\site.css",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\All Project\\TestDeploy\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6dtnnvokq",
+      "Integrity": "Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\All Project\\TestDeploy\\wwwroot\\js\\site.js",
+      "SourceId": "BadmintonCourtManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\All Project\\TestDeploy\\wwwroot\\",
+      "BasePath": "_content/BadmintonCourtManagement",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7nkanq878j",
+      "Integrity": "/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\9g15z2o4xb-r6dtnnvokq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001529051988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "653"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\All Project\\TestDeploy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\9g15z2o4xb-r6dtnnvokq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r6dtnnvokq.css",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\9g15z2o4xb-r6dtnnvokq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001529051988"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "653"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6dtnnvokq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r6dtnnvokq.css",
+      "AssetFile": "D:\\All Project\\TestDeploy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6dtnnvokq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awu8A3v0qWMJ8Ge5uOCCEECZf+ahB25jSY0trNj6ogo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.r6dtnnvokq.css.gz",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\9g15z2o4xb-r6dtnnvokq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "653"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6dtnnvokq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuSABCyXKTJW80G1BztF7KHChQsz3Uw4Jmt+Aq4Ri7A="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.7nkanq878j.js",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\tidpnky6zr-7nkanq878j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006369426752"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7nkanq878j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.7nkanq878j.js",
+      "AssetFile": "D:\\All Project\\TestDeploy\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7nkanq878j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.7nkanq878j.js.gz",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\tidpnky6zr-7nkanq878j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7nkanq878j"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\tidpnky6zr-7nkanq878j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006369426752"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\All Project\\TestDeploy\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/RnmtAzvTJzFwhTkeDy34DT2izxcPNlAUM/ItYwTspc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "D:\\All Project\\TestDeploy\\obj\\Debug\\net9.0\\compressed\\tidpnky6zr-7nkanq878j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 20:57:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LGdAz7tQXGN8LAQEm1AACcUa2tSRCiurHZr8ahrESw="
+        }
+      ]
+    }
+  ]
+}
